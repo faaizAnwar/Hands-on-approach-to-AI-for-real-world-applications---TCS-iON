@@ -1,0 +1,5 @@
+This Online Certificate Programme is offered by AI4ICPS of IIT Kharagpur in collaboration with TCS iON. AI4ICPS is an AI and ML Technology Innovation Hub established by the IIT Kharagpur.
+
+The learners will acquire basic to intermediate level of proficiency in AI, with the help of industry and academic experts through live lectures and various hands-on tools used by the industry. Eligible learners will get minimum 3 interview opportunities. Also, all learners will get certificates basis on their performance. These certificates will be Certificate of Participation, Certificate of Completion and Certificate of Merit.
+
+This course equips the learners to implement real world AI / ML algorithms hands-on using Python. Using a combination of Math, Python, and intuition, learners will practice Machine Learning problems and construct a mental model to understand how data scientists approach these problems programmatically. The course will also explore the inner workings of state-of-the-art AI applications like Generative AI (Natural Language Processing or NLP) and autonomous vehicles (Computer Vision).
